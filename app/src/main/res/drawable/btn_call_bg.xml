@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:state_enabled="false" android:drawable="@drawable/player_button_image_help_call_x" />
+    <item android:drawable="@drawable/player_button_image_help_call_active" android:state_pressed="true" />
+    <item android:drawable="@drawable/player_button_image_help_call" />
+</selector>
