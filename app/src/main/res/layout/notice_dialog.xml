@@ -34,7 +34,7 @@
         <Button
             android:layout_weight="1"
             android:id="@+id/btn_cancle"
-            android:layout_height="32dp"
+            android:layout_height="wrap_content"
             android:layout_width="0dp"
             android:background="@drawable/btn_radius"
             android:text="Bỏ qua"
@@ -46,7 +46,7 @@
             android:layout_weight="1"
             android:id="@+id/btn_ok"
             android:textAllCaps="false"
-            android:layout_height="32dp"
+            android:layout_height="wrap_content"
             android:layout_width="0dp"
             android:background="@drawable/btn_radius"
             android:text="Sẵn sàng"

@@ -9,7 +9,7 @@
     <RelativeLayout
         android:background="@drawable/player_layout_help_call_audience_background"
         android:layout_width="match_parent"
-        android:layout_height="300dp">
+        android:layout_height="308dp">
 
         <RelativeLayout
             android:id="@+id/rl_1"
@@ -168,9 +168,9 @@
         <Button
             android:id="@+id/btn_close"
             android:layout_width="102dp"
-            android:layout_height="28dp"
+            android:layout_height="wrap_content"
             android:text="Đóng"
-            android:layout_marginTop="8dp"
+            android:layout_marginVertical="8dp"
             android:layout_below="@id/rl_1"
             android:layout_centerHorizontal="true"
             android:textColor="#ffffff"

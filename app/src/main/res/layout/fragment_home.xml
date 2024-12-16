@@ -3,8 +3,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     android:background="@drawable/home_background"
-    android:orientation="vertical"
-    tools:context="ngdat.ailatrieuphu.fragments.HomeFragment">
+    android:orientation="vertical">
 
     <FrameLayout
         android:layout_width="wrap_content"

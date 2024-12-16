@@ -36,7 +36,7 @@
             <Button
                 android:id="@+id/btn_close"
                 android:layout_width="102dp"
-                android:layout_height="28dp"
+                android:layout_height="wrap_content"
                 android:text="Đóng"
                 android:textColor="#ffffff"
                 android:textAllCaps="false"
