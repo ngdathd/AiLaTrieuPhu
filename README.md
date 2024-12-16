@@ -21,6 +21,6 @@
 
 #### Màn hình
 
-| ![](./Screenshot_1734344967.mp4)  | ![](./Screenshot_1734344968.png)  | ![](./Screenshot_1734344988.png) | ![](./Screenshot_1734345007.png) | 
+| ![](https://github.com/user-attachments/assets/0ece1d08-7515-4d06-8ffd-6f9f15f1cbfb)  | ![](./Screenshot_1734344968.png)  | ![](./Screenshot_1734344988.png) | ![](./Screenshot_1734345007.png) | 
 |----------------------------------|-----------------------------------|----------------------------------|----------------------------------|
 | ![](./Screenshot_1734345020.png) | ![](./Screenshot_1734345039.png)  | ![](./Screenshot_1734345064.png) | ![](./Screenshot_1734345085.png) |
