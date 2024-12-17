@@ -16,7 +16,7 @@
 ### Mô tả
 
 - Ứng dụng **AiLaTrieuPhu** có ngôn ngữ lập trình là `Android - Java`. Tôi code cơ bản và dễ hiểu, phù hợp với ai mới học. Tôi cũng đã cập nhật, bạn chỉ cần tải về và chạy.
-- Ứng dụng **AiLaTrieuPhu** có các tính năng cơ bản của trò chơi Ai là triệu phú.
+- Ứng dụng **AiLaTrieuPhu** có luật chơi tương tự trò chơi Ai là triệu phú trên truyền hình.
 - Ứng dụng **AiLaTrieuPhu** có âm thanh là giọng của **MC Lại Văn Sâm**, giống hoàn toàn với chương trình truyền hình.
 
 #### Màn hình
